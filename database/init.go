@@ -19,7 +19,7 @@ type PostgresqlOptions struct {
 
 func (p *PostgresqlOptions) Dsn() string {
 	return fmt.Sprintf(
-		"host=%s user=%s password=%s port=%d sslmode=disable",
+		"host=%s user=%s password=%s port=%d database=decentralisd sslmode=disable",
 		p.Ip,
 		p.Username,
 		p.Password,
