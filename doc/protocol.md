@@ -1,6 +1,6 @@
-# lightcom - message protocol
+# decentralis - message protocol
 
-On your lightcom server you can use whatever message protocol you want, but we recommend using this.
+On your decentralis server you can use whatever message protocol you want, but we recommend using this.
 
 ## Messages encryption
 Every message should be encrypted using AES-GCM and as a key should be shared secret calculated from your private key and destination user's public key.

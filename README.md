@@ -1,5 +1,5 @@
-# lightcomd
-lightcom communicator api server.
+# decentralisd
+Decentralis communicator api server.
 
 ### Documentation
 Look [here](./doc/main.md).

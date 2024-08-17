@@ -1,4 +1,4 @@
-# lightcom - registering account
+# decentralis - registering account
 
 ## 1. Obtain server's public key
 ```http request

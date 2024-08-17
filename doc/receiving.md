@@ -1,4 +1,4 @@
-# lightcom - receiving messages
+# decentralis - receiving messages
 
 ## 1. Get who and how many messages sent you
 ### Regular request

@@ -1,4 +1,4 @@
-# lightcom technical documentation
+# decentralis technical documentation
 
 - [Technical specifications](./specs.md)
 - [Registering account](./registration.md)

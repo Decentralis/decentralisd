@@ -1,8 +1,8 @@
 package endpoints
 
 import (
+	"decentralisd/database"
 	"github.com/gin-gonic/gin"
-	"lightcomd/database"
 	"net/http"
 )
 

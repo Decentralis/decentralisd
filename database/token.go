@@ -1,9 +1,9 @@
 package database
 
 import (
+	"decentralisd/util"
 	"errors"
 	"gorm.io/gorm"
-	"lightcomd/util"
 	"time"
 )
 

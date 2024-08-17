@@ -2,9 +2,9 @@ package database
 
 import (
 	"bytes"
+	"decentralisd/util"
 	"github.com/google/uuid"
 	"gorm.io/gorm"
-	"lightcomd/util"
 )
 
 // UserModel is a database item containing information about users

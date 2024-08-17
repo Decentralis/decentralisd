@@ -1,10 +1,10 @@
 package database
 
 import (
+	"decentralisd/util"
 	"encoding/hex"
 	"errors"
 	"gorm.io/gorm"
-	"lightcomd/util"
 )
 
 var (

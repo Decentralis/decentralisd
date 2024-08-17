@@ -1,4 +1,4 @@
-# lightcom - sending messages
+# decentralis - sending messages
 
 You need to know the destination's user id.
 ```http request

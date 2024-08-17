@@ -1,4 +1,4 @@
-# lightcom - logging in
+# decentralis - logging in
 
 Prepare your user id and shared secret. Then:
 ```http request
